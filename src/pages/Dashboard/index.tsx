@@ -28,28 +28,6 @@ const Dashboard: React.FC = () => {
           </div>
           <FiChevronRight size={20} />
         </a>
-        <a href="teste">
-          <img
-            src="https://avatars.githubusercontent.com/u/37152253?v=4"
-            alt="Flávio Ferreira"
-          />
-          <div>
-            <strong>Rocketseat/unform</strong>
-            <p>Performance-focused API for React forms</p>
-          </div>
-          <FiChevronRight size={20} />
-        </a>
-        <a href="teste">
-          <img
-            src="https://avatars.githubusercontent.com/u/37152253?v=4"
-            alt="Flávio Ferreira"
-          />
-          <div>
-            <strong>Rocketseat/unform</strong>
-            <p>Performance-focused API for React forms</p>
-          </div>
-          <FiChevronRight size={20} />
-        </a>
       </Repositories>
     </>
   );
