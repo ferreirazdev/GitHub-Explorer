@@ -63,6 +63,10 @@ export const Repositories = styled.div`
       transform: translateX(10px);
     }
 
+    & + a {
+      margin-top: 16px;
+    }
+
     img {
       width: 64px;
       height: 64px;
