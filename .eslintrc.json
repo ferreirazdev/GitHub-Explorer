@@ -29,7 +29,8 @@
         "avatar_url",
         "stargazers_count",
         "forks_count",
-        "open_issues_count"
+        "open_issues_count",
+        "html_url"
         ]}],
       "no-use-before-define": "off",
       "@typescript-eslint/no-use-before-define": ["error"],
