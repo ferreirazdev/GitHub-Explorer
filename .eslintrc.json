@@ -24,7 +24,13 @@
         "prettier"
     ],
     "rules": {
-      "camelcase": ["error", {"allow": ["full_name", "avatar_url"]}],
+      "camelcase": ["error", {"allow": [
+        "full_name",
+        "avatar_url",
+        "stargazers_count",
+        "forks_count",
+        "open_issues_count"
+        ]}],
       "no-use-before-define": "off",
       "@typescript-eslint/no-use-before-define": ["error"],
       "prettier/prettier": ["error", {
